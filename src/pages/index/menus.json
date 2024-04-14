@@ -1,0 +1,48 @@
+{
+  "code": 0,
+  "message": "",
+  "data": [
+    {
+      "image": "https://trade-marketing-prod-oss.pin-dao.cn/product/1705661620234.png",
+      "name": "加入会员群",
+      "route": "https://wxh5.icc.link/lbs/?id=1639165968708931586&unique=e2a185aa25c1183c#/?icc=1"
+    },
+    {
+      "image": "https://trade-marketing-prod-oss.pin-dao.cn/product/1693888848335.png",
+      "name": "储66元赠6元",
+      "route": "nayuki://pindao.cn/userCenter/memberRecharge?cnc=CESF3ELUaPU"
+    },
+    {
+      "image": "https://trade-marketing-prod-oss.pin-dao.cn/product/1691042092507.png",
+      "name": "成为合伙人",
+      "route": "nayuki://pindao.cn/mini/miniProgram?aid=wx11037ed696ec2887&path=pages%2Fjoin%2Fjoin"
+    },
+    {
+      "image": "https://trade-marketing-prod-oss.pin-dao.cn/product/1681350981555.png",
+      "name": "企业团单",
+      "route": "nayuki://pindao.cn/shelves/shelves?cnc=CEVFSj64aGU"
+    },
+    {
+      "image": "https://trade-marketing-prod-oss.pin-dao.cn/product/1681351007115.png",
+      "name": "礼品卡",
+      "route": "nayuki://pindao.cn/gift/giftCardListPage"
+    },
+    {
+      "image": "https://trade-marketing-prod-oss.pin-dao.cn/product/1681351028160.png",
+      "name": "学生有礼",
+      "route": "nayuki://pindao.cn/student/student"
+    },
+    {
+      "image": "https://trade-marketing-prod-oss.pin-dao.cn/product/1681350947772.png",
+      "name": "一起喝",
+      "route": "nayuki://pindao.cn/shopMenu/shopMenu?fs=pd"
+    },
+    {
+      "image": "https://trade-marketing-prod-oss.pin-dao.cn/product/1681350970542.png",
+      "name": "奈雪商城",
+      "route": "nayuki://pindao.cn/mini/miniProgram?aid=wxe611cd893c49d73e&type=0"
+    }
+  ],
+  "dataType": "ArrayList",
+  "success": true
+}

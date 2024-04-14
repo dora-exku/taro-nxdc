@@ -1,0 +1,147 @@
+.main-container {
+  padding: 18px;
+  width: 100%;
+  position: relative;
+  z-index: 999;
+  top: -130px;
+  box-sizing: border-box;
+  .main {
+    .main-header {
+      height: 70px;
+      background-color: rgba(255, 255, 255, 0.7);
+      border-radius: 20px 20px 0 0;
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      box-sizing: border-box;
+
+      .main-header__user {
+        flex: 1;
+        font-size: 24px;
+        color: #92945f;
+      }
+
+      .main-header__coupon {
+        font-size: 24px;
+        color: #92945f;
+      }
+
+      .main-header__divider {
+        margin: 0 10px;
+        width: 2px;
+        height: 20px;
+        background-color: #92945f;
+        display: block;
+      }
+
+      .main-header__progress {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+
+        .main-header__progress__text {
+          font-size: 24px;
+          color: #92945f;
+        }
+
+        .main-header__progress__container {
+          margin-left: 6px;
+          width: 100px;
+          height: 12px;
+          // background-color: #dadacb;
+          background-color: rgba(218, 218, 203, 0.6);
+          border-radius: 10px;
+          display: flex;
+          align-items: center;
+
+          .main-header__progress__bar {
+            height: 100%;
+            background-color: #92945f;
+            border-radius: 10px;
+            display: inline-block;
+          }
+        }
+      }
+
+      .main-header__qrcode {
+        margin-left: 12px;
+        display: flex;
+        align-items: center;
+        .main-header__qrcode__text {
+          font-size: 24px;
+          color: #92945f;
+        }
+
+        .main-header__qrcode__icon {
+          margin-left: 6px;
+          color: #92945f;
+        }
+      }
+    }
+
+    .main-location {
+      height: 60px;
+      background-color: white;
+      padding: 0 20px;
+      box-sizing: border-box;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      .main-location__left {
+        display: flex;
+        align-items: center;
+
+        .main-location__icon {
+          color: #9ec23c;
+        }
+
+        .main-location__text {
+          margin-left: 4px;
+          font-size: 24px;
+          color: black;
+        }
+      }
+
+      .main-location__right {
+        display: flex;
+        align-items: center;
+
+        .main-location__text {
+          font-size: 24px;
+          color: #b2b2b2;
+        }
+
+        .main-location__icon {
+          margin-left: 4px;
+          color: #b2b2b2;
+        }
+      }
+    }
+
+    .main-cater {
+      height: 200px;
+      background-color: #fafafa;
+
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      .main-cater__btn {
+        flex: 1;
+        text-align: center;
+      }
+    }
+
+    .main-spacer {
+      height: 16px;
+      background-color: white;
+    }
+
+    .main-menus {
+      border-radius: 0 0 20px 20px;
+    }
+  }
+}

@@ -1,0 +1,46 @@
+.groupContainer {
+  .group {
+    // 拼单
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .groupText {
+      font-size: 24px;
+      line-height: 20px;
+      color: #333333;
+      font-weight: bold;
+    }
+
+    .groupIcon {
+      margin-left: 12px;
+      padding: 12px;
+      border-radius: 9999px;
+      width: 48px;
+      height: 48px;
+      text-align: center;
+      background-color: var(--primary-color, #718c29);
+
+      // 图标左右晃动
+      animation: shake 0.6s infinite;
+    }
+  }
+}
+
+// 旋转抖动
+@keyframes shake {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(10deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  75% {
+    transform: rotate(-10deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}

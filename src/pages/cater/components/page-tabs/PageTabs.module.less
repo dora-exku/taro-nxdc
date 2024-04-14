@@ -1,0 +1,46 @@
+.tabs {
+  display: flex;
+  align-items: center;
+  height: 56rpx;
+  padding: 0;
+  box-sizing: border-box;
+
+  .item {
+    height: 56rpx;
+    display: inline-block;
+    padding: 0 32rpx;
+    font-size: 28rpx;
+    box-sizing: border-box;
+
+    color: #727477;
+
+    position: relative;
+
+    .text {
+      display: inline-block;
+      height: 56rpx;
+      line-height: 56rpx;
+    }
+
+    &.active {
+      color: #242524;
+
+      &:after {
+        width: 40px;
+      }
+    }
+
+    &:after {
+      content: "";
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 0;
+      height: 6rpx;
+      background-color: var(--primary-color, #6f4e37);
+      border-radius: 999rpx;
+      transition: all 0.3s;
+    }
+  }
+}

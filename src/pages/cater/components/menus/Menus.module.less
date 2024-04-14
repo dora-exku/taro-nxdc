@@ -1,0 +1,57 @@
+.menuContainer {
+  height: 100%;
+  width: 180rpx;
+  background-color: #f7f7f7;
+
+  ::-webkit-scrollbar {
+    display: none;
+    width: 0;
+    height: 0;
+    color: transparent;
+  }
+
+  .menus {
+    width: 180rpx;
+
+    .item {
+      padding: 0;
+      width: 100%;
+
+      .itemContainer {
+        width: 180rpx;
+        height: 120rpx;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        position: relative;
+
+        .tag {
+          position: absolute;
+          top: 0rpx;
+          right: 0rpx;
+          background-color: #fa9261;
+          color: white;
+          padding: 1rpx 8rpx;
+          font-size: 18rpx;
+          height: 24rpx;
+          line-height: 24rpx;
+          border-radius: 999rpx 999rpx 999rpx 0;
+        }
+
+        .text {
+          font-size: 24rpx;
+        }
+      }
+    }
+  }
+}
+
+.spacer {
+  height: 50%;
+}
+
+.safe {
+  height: env(safe-area-inset-bottom);
+  height: constant(safe-area-inset-bottom);
+}

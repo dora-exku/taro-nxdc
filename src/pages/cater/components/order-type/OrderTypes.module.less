@@ -1,0 +1,28 @@
+.types {
+  // width: ;
+  background-color: #f0f0f0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 9999px;
+  box-sizing: border-box;
+  padding: 4px;
+
+  .item {
+    height: 100%;
+    font-size: 24px;
+    line-height: 20px;
+    width: 86px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &.active {
+      background-color: var(--primary-color, #718c29);
+      color: white;
+      border-radius: 9999px;
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "miniprogramRoot": "./dist",
+  "projectname": "cater",
+  "description": "点餐小程序",
+  "appid": "wxbbfc7d52fc69d92a",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "点餐页面",
+          "pathName": "pages/cater/index",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

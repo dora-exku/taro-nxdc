@@ -1,0 +1,688 @@
+{
+  "code": 0,
+  "message": "",
+  "data": {
+    "level": 1,
+    "xp": 0,
+    "memberImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698895927084.png",
+    "levelExplainImage": null,
+    "rightsList": [
+      {
+        "checkStatus": 1,
+        "memberLevel": {
+          "level": 1,
+          "levelName": "好奇者",
+          "levelNameImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698896122683.png",
+          "bgImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698847898421.png",
+          "explainDesc": "永远保持好奇，##生活一直有趣",
+          "explainColor": "#855E87",
+          "elementColor": "#B36ABF",
+          "status": 0,
+          "startXp": 0,
+          "endXp": 99
+        },
+        "levelRights": {
+          "title": "您已解锁7项特权",
+          "levelRightsDetailList": [
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848377399.png",
+              "rightsPop": "",
+              "buttonContent": "",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu",
+              "status": 1,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 6
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848385547.png",
+              "rightsPop": "",
+              "buttonContent": "",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu",
+              "status": 0,
+              "subscribeBtnStatus": 1,
+              "dayOfWeek": 7
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848232274.png",
+              "rightsPop": "http://trade-marketing-test-oss.pin-dao.cn/product/1672217710242.png",
+              "buttonContent": "去点单",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?cnc=CESr5QLFa9r",
+              "status": 0,
+              "subscribeBtnStatus": 1,
+              "dayOfWeek": 1
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848270960.png",
+              "rightsPop": "",
+              "buttonContent": "",
+              "jumpUrl": "https://tm-web.pin-dao.cn/naixue/points-mall",
+              "status": 0,
+              "subscribeBtnStatus": 1,
+              "dayOfWeek": 2
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1709031807295.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1692090229839.png",
+              "buttonContent": "去兑换",
+              "jumpUrl": "https://tm-web.pin-dao.cn/naixue/points-mall",
+              "status": 0,
+              "subscribeBtnStatus": 1,
+              "dayOfWeek": 3
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1706167315334.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698040253835.png",
+              "buttonContent": "一起喝",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?fs=pd&cnc=CESUj2Y2agQ",
+              "status": 0,
+              "subscribeBtnStatus": 1,
+              "dayOfWeek": 4
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1700188994304.png",
+              "rightsPop": "http://trade-marketing-test-oss.pin-dao.cn/product/1672217785123.png",
+              "buttonContent": "去看看",
+              "jumpUrl": "nayuki://pindao.cn/annualReport/raffle?activityId=593&cnc=CEZFWgIPaZQ",
+              "status": 0,
+              "subscribeBtnStatus": 1,
+              "dayOfWeek": 5
+            }
+          ],
+          "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848377399.png"
+        }
+      },
+      {
+        "checkStatus": 0,
+        "memberLevel": {
+          "level": 2,
+          "levelName": "冒险家",
+          "levelNameImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698896118077.png",
+          "bgImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698847902510.png",
+          "explainDesc": "找寻心中的原野，##有梦不觉远",
+          "explainColor": "#AF6246",
+          "elementColor": "#DC6134",
+          "status": 0,
+          "startXp": 100,
+          "endXp": 499
+        },
+        "levelRights": {
+          "title": "V2专享特权",
+          "levelRightsDetailList": [
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848404060.png",
+              "rightsPop": "",
+              "buttonContent": "",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 6
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848410692.png",
+              "rightsPop": "",
+              "buttonContent": "",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 7
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848299803.png",
+              "rightsPop": "http://trade-marketing-test-oss.pin-dao.cn/product/1672218030828.png",
+              "buttonContent": "去点单",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?cnc=CESr5QLFa9r",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 1
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848334078.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1697182798269.png",
+              "buttonContent": "去点单",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?cnc=CESUj2Y2agQ",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 2
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1709031817088.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1692090241274.png",
+              "buttonContent": "去兑换",
+              "jumpUrl": "https://tm-web.pin-dao.cn/naixue/points-mall",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 3
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1706167321647.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698040266062.png",
+              "buttonContent": "一起喝",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?fs=pd&cnc=CESUj2Y2agQ",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 4
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1700189003038.png",
+              "rightsPop": "http://trade-marketing-test-oss.pin-dao.cn/product/1672218281251.png",
+              "buttonContent": "去看看",
+              "jumpUrl": "nayuki://pindao.cn/annualReport/raffle?activityId=593&cnc=CEZFWgIPaZQ",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 5
+            }
+          ],
+          "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848404060.png"
+        }
+      },
+      {
+        "checkStatus": 0,
+        "memberLevel": {
+          "level": 3,
+          "levelName": "探险家",
+          "levelNameImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698896113965.png",
+          "bgImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698847906278.png",
+          "explainDesc": "超越眼前的山，##看到更宽的海",
+          "explainColor": "#698D04",
+          "elementColor": "#698D04",
+          "status": 0,
+          "startXp": 500,
+          "endXp": 999
+        },
+        "levelRights": {
+          "title": "V3专享特权",
+          "levelRightsDetailList": [
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848475660.png",
+              "rightsPop": "",
+              "buttonContent": "",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 6
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848484038.png",
+              "rightsPop": "",
+              "buttonContent": "",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 7
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848443247.png",
+              "rightsPop": "http://trade-marketing-test-oss.pin-dao.cn/product/1672223864077.png",
+              "buttonContent": "去点单",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?cnc=CESr5QLFa9r",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 1
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848448477.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1697182816114.png",
+              "buttonContent": "去点单",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?cnc=CESUj2Y2agQ",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 2
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1709031823239.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1692090252255.png",
+              "buttonContent": "去兑换",
+              "jumpUrl": "https://tm-web.pin-dao.cn/naixue/points-mall",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 3
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1706167327263.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698040277639.png",
+              "buttonContent": "一起喝",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?fs=pd&cnc=CESUj2Y2agQ",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 4
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1700189012894.png",
+              "rightsPop": "http://trade-marketing-test-oss.pin-dao.cn/product/1672223935661.png",
+              "buttonContent": "去看看",
+              "jumpUrl": "nayuki://pindao.cn/annualReport/raffle?activityId=593&cnc=CEZFWgIPaZQ",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 5
+            }
+          ],
+          "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848475660.png"
+        }
+      },
+      {
+        "checkStatus": 0,
+        "memberLevel": {
+          "level": 4,
+          "levelName": "环球家",
+          "levelNameImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698896110142.png",
+          "bgImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698847910441.png",
+          "explainDesc": "乘风破浪而上，##所遇皆是风景",
+          "explainColor": "#5788AE",
+          "elementColor": "#4E91C5",
+          "status": 0,
+          "startXp": 1000,
+          "endXp": 1999
+        },
+        "levelRights": {
+          "title": "V4专享特权",
+          "levelRightsDetailList": [
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848523375.png",
+              "rightsPop": "",
+              "buttonContent": "",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 6
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848531600.png",
+              "rightsPop": "",
+              "buttonContent": "",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 7
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848491451.png",
+              "rightsPop": "http://trade-marketing-test-oss.pin-dao.cn/product/1672224092039.png",
+              "buttonContent": "去点单",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?cnc=CESr5QLFa9r",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 1
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848495610.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1697182829189.png",
+              "buttonContent": "去点单",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?cnc=CESUj2Y2agQ",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 2
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1709031828953.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1692090266630.png",
+              "buttonContent": "去兑换",
+              "jumpUrl": "https://tm-web.pin-dao.cn/naixue/points-mall",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 3
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1706167333289.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698040288733.png",
+              "buttonContent": "一起喝",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?fs=pd&cnc=CESUj2Y2agQ",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 4
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1700189021085.png",
+              "rightsPop": "http://trade-marketing-test-oss.pin-dao.cn/product/1672224232332.png",
+              "buttonContent": "去看看",
+              "jumpUrl": "nayuki://pindao.cn/annualReport/raffle?activityId=593&cnc=CEZFWgIPaZQ",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 5
+            }
+          ],
+          "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848523375.png"
+        }
+      },
+      {
+        "checkStatus": 0,
+        "memberLevel": {
+          "level": 5,
+          "levelName": "梦想家",
+          "levelNameImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698896106101.png",
+          "bgImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698847913450.png",
+          "explainDesc": "追逐梦想的人，##最终光芒万丈",
+          "explainColor": "#968E53",
+          "elementColor": "#DBC438",
+          "status": 0,
+          "startXp": 2000,
+          "endXp": 4999
+        },
+        "levelRights": {
+          "title": "V5专享特权",
+          "levelRightsDetailList": [
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848571779.png",
+              "rightsPop": "",
+              "buttonContent": "",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 6
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848582074.png",
+              "rightsPop": "",
+              "buttonContent": "",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 7
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848540313.png",
+              "rightsPop": "http://trade-marketing-test-oss.pin-dao.cn/product/1672225620353.png",
+              "buttonContent": "去点单",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?cnc=CESr5QLFa9r",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 1
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848544201.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1697182844251.png",
+              "buttonContent": "去点单",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?cnc=CESUj2Y2agQ",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 2
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1709031834159.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1692090279504.png",
+              "buttonContent": "去兑换",
+              "jumpUrl": "https://tm-web.pin-dao.cn/naixue/points-mall",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 3
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1706167338934.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698040299119.png",
+              "buttonContent": "一起喝",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?fs=pd&cnc=CESUj2Y2agQ",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 4
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1700189028457.png",
+              "rightsPop": "http://trade-marketing-test-oss.pin-dao.cn/product/1672225671155.png",
+              "buttonContent": "去看看",
+              "jumpUrl": "nayuki://pindao.cn/annualReport/raffle?activityId=593&cnc=CEZFWgIPaZQ",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 5
+            }
+          ],
+          "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848571779.png"
+        }
+      },
+      {
+        "checkStatus": 0,
+        "memberLevel": {
+          "level": 6,
+          "levelName": "大使会员",
+          "levelNameImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698896091890.png",
+          "bgImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698847916873.png",
+          "explainDesc": "不被定义的主角，##独一无二的星",
+          "explainColor": "#A79157",
+          "elementColor": "#BB993F",
+          "status": 0,
+          "startXp": 5000,
+          "endXp": 9999999
+        },
+        "levelRights": {
+          "title": "V6专享特权",
+          "levelRightsDetailList": [
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848629478.png",
+              "rightsPop": "",
+              "buttonContent": "",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 6
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848636597.png",
+              "rightsPop": "",
+              "buttonContent": "",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 7
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848596592.png",
+              "rightsPop": "http://trade-marketing-test-oss.pin-dao.cn/product/1672225825520.png",
+              "buttonContent": "去点单",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?cnc=CESr5QLFa9r",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 1
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848601639.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1697182859041.png",
+              "buttonContent": "去点单",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?cnc=CESUj2Y2agQ",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 2
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1709031839895.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1692090299673.png",
+              "buttonContent": "去兑换",
+              "jumpUrl": "https://tm-web.pin-dao.cn/naixue/points-mall",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 3
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1706167344814.png",
+              "rightsPop": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698040311495.png",
+              "buttonContent": "一起喝",
+              "jumpUrl": "nayuki://pindao.cn/shopMenu/shopMenu?fs=pd&cnc=CESUj2Y2agQ",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 4
+            },
+            {
+              "rightsType": 1,
+              "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1700189034736.png",
+              "rightsPop": "http://trade-marketing-test-oss.pin-dao.cn/product/1672225874164.png",
+              "buttonContent": "去看看",
+              "jumpUrl": "nayuki://pindao.cn/annualReport/raffle?activityId=593&cnc=CEZFWgIPaZQ",
+              "status": 0,
+              "subscribeBtnStatus": 0,
+              "dayOfWeek": 5
+            }
+          ],
+          "rightsPic": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698848629478.png"
+        }
+      }
+    ],
+    "levelMemberImageList": [
+      {
+        "checkStatus": 1,
+        "level": 1,
+        "sexMemberImageList": [
+          {
+            "checkStatus": 1,
+            "sex": 1,
+            "memberImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698895927084.png"
+          },
+          {
+            "checkStatus": 0,
+            "sex": 2,
+            "memberImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698896017007.png"
+          }
+        ],
+        "bubbleConfig": {
+          "levelName": "V1",
+          "bubbleImageUrl": "https://trade-marketing-prod-oss.pin-dao.cn/product/1712654714753.png",
+          "jumpUrl": "nayuki://pindao.cn/student/coupon/invite?activityId=586&channelCode=CEZUgQPIagM"
+        }
+      },
+      {
+        "checkStatus": 0,
+        "level": 2,
+        "sexMemberImageList": [
+          {
+            "checkStatus": 0,
+            "sex": 1,
+            "memberImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698896060350.png"
+          },
+          {
+            "checkStatus": 0,
+            "sex": 2,
+            "memberImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698896000796.png"
+          }
+        ],
+        "bubbleConfig": {
+          "levelName": "V2",
+          "bubbleImageUrl": "https://trade-marketing-prod-oss.pin-dao.cn/product/1712654718526.png",
+          "jumpUrl": "nayuki://pindao.cn/student/coupon/invite?activityId=586&channelCode=CEZUgQPIagM"
+        }
+      },
+      {
+        "checkStatus": 0,
+        "level": 3,
+        "sexMemberImageList": [
+          {
+            "checkStatus": 0,
+            "sex": 1,
+            "memberImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698896067099.png"
+          },
+          {
+            "checkStatus": 0,
+            "sex": 2,
+            "memberImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698895980036.png"
+          }
+        ],
+        "bubbleConfig": {
+          "levelName": "V3",
+          "bubbleImageUrl": "https://trade-marketing-prod-oss.pin-dao.cn/product/1712654722378.png",
+          "jumpUrl": "nayuki://pindao.cn/student/coupon/invite?activityId=586&channelCode=CEZUgQPIagM"
+        }
+      },
+      {
+        "checkStatus": 0,
+        "level": 4,
+        "sexMemberImageList": [
+          {
+            "checkStatus": 0,
+            "sex": 1,
+            "memberImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698896072808.png"
+          },
+          {
+            "checkStatus": 0,
+            "sex": 2,
+            "memberImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698895978478.png"
+          }
+        ],
+        "bubbleConfig": {
+          "levelName": "V4",
+          "bubbleImageUrl": "https://trade-marketing-prod-oss.pin-dao.cn/product/1712654725373.png",
+          "jumpUrl": "nayuki://pindao.cn/student/coupon/invite?activityId=586&channelCode=CEZUgQPIagM"
+        }
+      },
+      {
+        "checkStatus": 0,
+        "level": 5,
+        "sexMemberImageList": [
+          {
+            "checkStatus": 0,
+            "sex": 1,
+            "memberImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698896078677.png"
+          },
+          {
+            "checkStatus": 0,
+            "sex": 2,
+            "memberImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698895964675.png"
+          }
+        ],
+        "bubbleConfig": {
+          "levelName": "V5",
+          "bubbleImageUrl": "https://trade-marketing-prod-oss.pin-dao.cn/product/1712654729383.png",
+          "jumpUrl": "nayuki://pindao.cn/student/coupon/invite?activityId=586&channelCode=CEZUgQPIagM"
+        }
+      },
+      {
+        "checkStatus": 0,
+        "level": 6,
+        "sexMemberImageList": [
+          {
+            "checkStatus": 0,
+            "sex": 1,
+            "memberImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698896083296.png"
+          },
+          {
+            "checkStatus": 0,
+            "sex": 2,
+            "memberImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1698895940395.png"
+          }
+        ],
+        "bubbleConfig": {
+          "levelName": "V6",
+          "bubbleImageUrl": "https://trade-marketing-prod-oss.pin-dao.cn/product/1712654733162.png",
+          "jumpUrl": "nayuki://pindao.cn/student/coupon/invite?activityId=586&channelCode=CEZUgQPIagM"
+        }
+      }
+    ]
+  },
+  "dataType": "MyPageRightsVO",
+  "success": true
+}

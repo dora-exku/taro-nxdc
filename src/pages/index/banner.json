@@ -1,0 +1,57 @@
+{
+  "code": 0,
+  "message": "",
+  "data": [
+    {
+      "image": "https://trade-marketing-prod-oss.pin-dao.cn/product/1711519497572.mp4",
+      "fileType": 2,
+      "floorImage": "",
+      "name": "大师龙井",
+      "route": "nayuki://pindao.cn/shopMenu/shopMenu?groupId=40367"
+    },
+    {
+      "image": "https://trade-marketing-prod-oss.pin-dao.cn/product/1711504432859.png",
+      "fileType": 1,
+      "floorImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1711504436701.png",
+      "name": "龙井买一赠一",
+      "route": "nayuki://pindao.cn/student/coupon/receive?ai=20863&gec=UCE8166155202539379264&cac=1711467086100678&cnc=CEZUgrF9a3I"
+    },
+    {
+      "image": "https://trade-marketing-prod-oss.pin-dao.cn/product/1711445927503.9文字_首页banner.png",
+      "fileType": 1,
+      "floorImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1711523200445.9背景_首页banner.png",
+      "name": "周三会员日9.9",
+      "route": "nayuki://pindao.cn/activeLand/activeLand?id=3382"
+    },
+    {
+      "image": "https://trade-marketing-prod-oss.pin-dao.cn/product/1711463050671.png",
+      "fileType": 1,
+      "floorImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1711463055088.png",
+      "name": "杨桃玉油柑",
+      "route": "nayuki://pindao.cn/shopMenu/shopMenu?groupId=40365"
+    },
+    {
+      "image": "https://trade-marketing-prod-oss.pin-dao.cn/product/1711093906083.png",
+      "fileType": 1,
+      "floorImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1711093908056.png",
+      "name": "女生节",
+      "route": "nayuki://pindao.cn/shopMenu/shopMenu?groupId=40363"
+    },
+    {
+      "image": "https://trade-marketing-prod-oss.pin-dao.cn/product/1711093808705.png",
+      "fileType": 1,
+      "floorImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1711093817229.png",
+      "name": "金色山脉",
+      "route": "nayuki://pindao.cn/shopMenu/shopMenu?groupId=40361"
+    },
+    {
+      "image": "https://trade-marketing-prod-oss.pin-dao.cn/product/1706714217966.png",
+      "fileType": 1,
+      "floorImage": "https://trade-marketing-prod-oss.pin-dao.cn/product/1706714225448.png",
+      "name": "储值有礼",
+      "route": "nayuki://pindao.cn/userCenter/memberRecharge?cnc=CESFIN4KaMP"
+    }
+  ],
+  "dataType": "ArrayList",
+  "success": true
+}
